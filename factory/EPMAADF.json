@@ -1,0 +1,9 @@
+{
+	"name": "EPMAADF",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ada0ace-5b63-417e-b47e-43acb3beeb78",
+		"tenantId": "0a517b55-2f9d-4028-84fb-17a7dc3dd5cc"
+	}
+}
