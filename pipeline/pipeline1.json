@@ -54,6 +54,7 @@
 			},
 			{
 				"name": "M365Login",
+				"description": "dsfasdf",
 				"type": "WebActivity",
 				"dependsOn": [
 					{
